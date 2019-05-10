@@ -1490,3 +1490,5 @@ h1.block__title span {
 }
 .service-image{ height: 282px; }
 .service-image-botox{ height: 290px; }
+
+.text_nopdding p{ padding: 0px 15px;  padding-bottom: 0px; margin-bottom: 0px;}
