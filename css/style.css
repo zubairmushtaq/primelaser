@@ -1475,7 +1475,6 @@ h1.block__title {
 h1.block__title span {
     border: none;
     background-color: coral;
-    padding: 0 2.1rem;
     line-height: .21rem;
     border: 2px solid #FFF;
 }
@@ -1493,12 +1492,6 @@ h1.block__title span {
 .service-image-botox{ height: 290px; }
 
 .text_nopdding p{ padding: 0px 15px;  padding-bottom: 0px; margin-bottom: 0px;}
-
-
-
-
-
-
 h2.sub_block_title{color: yellow; text-decoration: underline; line-height: 50px;
  margin-top: 12px; padding: 0px !important;
 }
