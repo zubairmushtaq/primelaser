@@ -1495,3 +1495,10 @@ h1.block__title span {
 h2.sub_block_title{color: yellow; text-decoration: underline; line-height: 50px;
  margin-top: 12px; padding: 0px !important;
 }
+
+
+@media only screen and (max-width: 768px) {
+
+.service-image{ height: auto; }
+.service-image-botox{ height: auto; }
+}
