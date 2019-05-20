@@ -1465,7 +1465,7 @@ body.mobile-nav-active #mobile-nav-toggle {
          }
 .mt-0 a {color: orange; font-size: 18px font-weight: bold;}
 
-h1.block__title {
+/*h1.block__title {
     width: 100%;
     border-top: 1px solid #dcdcdc;
     border-bottom: 1px solid #dcdcdc;
@@ -1477,6 +1477,22 @@ h1.block__title span {
     background-color: coral;
     line-height: .21rem;
     border: 2px solid #FFF;
+}
+*/
+
+h1.block__title {
+    width: 100%;
+    border-bottom: 1px solid #dcdcdc;
+    margin-bottom: 2rem;
+}
+h1.block__title span {
+    border: none;
+    background-color: #343a40;
+    line-height: .21rem;
+    border: 2px solid;
+    padding: 10px;
+    font-size: 30px;
+    font-weight: bold;
 }
 
 .card-title{
