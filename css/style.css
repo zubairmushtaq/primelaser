@@ -1337,10 +1337,10 @@ body.mobile-nav-active #mobile-nav-toggle {
          .card .card-header a{ 
          display: block;
          padding: 12px;
-         background: #c6c6c6;
+         background: cadetblue;
          font-size: 18px;
          font-weight: bold;
-         color: #000000;
+         color: midnightblue;
          border: 1px solid #ececec;
          box-shadow: 0 0 10px rgba(0,0,0,.05);
          position: relative;
@@ -1348,7 +1348,7 @@ body.mobile-nav-active #mobile-nav-toggle {
          }
          .card .card-header a.collapsed{
          box-shadow: none;
-         color: #303030;
+         color: #ffffff;
          }
          /* .card .card-header a:before,
          .card .card-header a.collapsed:before{
@@ -1386,7 +1386,7 @@ body.mobile-nav-active #mobile-nav-toggle {
          font-size: 15px;
          color: #fff;
          line-height: 27px;
-		 background: transparent;
+		 background: coral;
          } 
          .vertical-tab{ display: table; }
          .vertical-tab .nav-tabs{
@@ -1465,21 +1465,6 @@ body.mobile-nav-active #mobile-nav-toggle {
          }
 .mt-0 a {color: orange; font-size: 18px font-weight: bold;}
 
-/*h1.block__title {
-    width: 100%;
-    border-top: 1px solid #dcdcdc;
-    border-bottom: 1px solid #dcdcdc;
-    line-height: .21rem;
-    margin-bottom: 2rem;
-}
-h1.block__title span {
-    border: none;
-    background-color: coral;
-    line-height: .21rem;
-    border: 2px solid #FFF;
-}
-*/
-
 h1.block__title {
     width: 100%;
     border-bottom: 1px solid #dcdcdc;
@@ -1508,13 +1493,3 @@ h1.block__title span {
 .service-image-botox{ height: 290px; }
 
 .text_nopdding p{ padding: 0px 15px;  padding-bottom: 0px; margin-bottom: 0px;}
-h2.sub_block_title{color: yellow; text-decoration: underline; line-height: 50px;
- margin-top: 12px; padding: 0px !important;
-}
-
-
-@media only screen and (max-width: 768px) {
-
-.service-image{ height: auto; }
-.service-image-botox{ height: auto; }
-}
