@@ -1489,7 +1489,30 @@ h1.block__title span {
     padding-left: 0px;
     padding-right: 0px;
 }
-.service-image{ height: 270px; }
-.service-image-botox{ height: 278px; }
+h2.sub_block_title {
+    padding-left: 0rem !important;
+    margin-top: 20px;
+    margin-bottom: 2px;
+}
 
+
+
+
+.service-image{
+
+	margin-top: 12px;
+
+}
+
+.prime-laser a{
+
+color: coral;
+
+}
+
+.prime-laser h3 sup{
+
+color: coral;
+    font-size: 12px;
+}
 .text_nopdding p{ padding: 0px 15px;  padding-bottom: 0px; margin-bottom: 0px;}
