@@ -126,6 +126,10 @@
 
 
 
+
+
+
+
                   <div class="container">
 				  <div class="row">
 <h2 class=" text-center" style="
@@ -136,11 +140,10 @@
 					
 					</div>
                      <div class="row pt-0">
-					            <div>
-                              <img class="float-left img-fluid pb-2 service-image" src="img/services/laser-hair-removal.jpg" alt="" title="">
+                        <div class="col-12 col-md-6 col-lg-6 nopadding">
+                           <div>
+                              <img class="float-left img-fluid pb-2 service-image" src="img/services/laser-hair-removal.jpg" alt="beautiful hair" title="beautiful hair">
                            </div>
-                        <div class="col-12 col-md-12 col-lg-12 nopadding">
-                
                            <div class="pb-2">
                               <div class="accordion kdg-clear-both" id="StylistCategories">
                                  <div class="card max-cat-width">
@@ -171,7 +174,7 @@ Optimal results for your hair removal sessions can be achieved by following a fe
                               </div>
                            </div>
                         </div>
-                        <div class="col-12 col-md-12 col-lg-12 nopadding">
+                        <div class="col-12 col-md-6 col-lg-6 nopadding">
                           
                               <div class="accordion" id="ScitonAccordion">
                                  <div class="card">
@@ -314,8 +317,10 @@ Optimal results for your hair removal sessions can be achieved by following a fe
 
                      <div class="row pt-0" id="Nails">
 
-                        <div class="col-12 col-md-12 col-lg-12 nopadding">
-                 
+                        <div class="col-12 col-md-6 col-lg-6 nopadding">
+                           <div>
+                              <img class="float-left img-fluid pb-2 service-image-botox" src="img/services/botox.jpg" alt="professional botox" title="professional botox">
+                           </div>
                            <div class="pb-2">
                               <div class="accordion kdg-clear-both" id="BotoxCategories">
                                  <div class="card max-cat-width">
@@ -343,7 +348,7 @@ Schedule a complimentary consultation for pricing
                               </div>
                            </div>
                         </div>
-                        <div class="col-12 col-md-12 col-lg-12 nopadding">
+                        <div class="col-12 col-md-6 col-lg-6 nopadding">
                            <div class="text">
                 
                               <div class="accordion" id="DermaFillerAccordion">
@@ -460,8 +465,10 @@ Schedule a complimentary consultation for pricing
                         <div class="clearfix"></div>
                      </div>
                      <div class="row pt-0" id="Spa">
-					                         <div class="col-12 col-md-12 col-lg-12 nopadding">
-        
+					                         <div class="col-12 col-md-6 col-lg-6 nopadding">
+                           <div>
+                              <img class="float-left img-fluid pb-2" src="img/services/permanent.jpg" alt="Permanent Cosmetics" title="Permanent Cosmetics">
+                           </div>
                            <div class="pb-2">
                               <div class="accordion kdg-clear-both" id="PermanentCosmetics">
                                  <div class="card max-cat-width">
@@ -486,15 +493,19 @@ Schedule a complimentary consultation for pricing
                                  </div>
                               </div>
                            </div>
-
+          <div>
+                              <img class="float-left img-fluid pb-2" src="img/services/therapy.jpg" alt="Permanent Cosmetics" title="Permanent Cosmetics">
+                           </div>
                 
             
                         </div>	
-                        <div class="col-12 col-md-12 col-lg-12 nopadding">
+                        <div class="col-12 col-md-6 col-lg-6 nopadding">
                  
 
 
-                  
+                           <div>
+                              <img class="float-left img-fluid pb-2" src="img/services/skinpen.jpg" alt="SkinPen by Bellus Medical" title="SkinPen by Bellus Medical">
+                           </div>
                            <div class="pb-2">
                               <div class="accordion kdg-clear-both" id="SkinPen">
                                  <div class="card max-cat-width">
