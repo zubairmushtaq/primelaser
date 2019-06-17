@@ -329,7 +329,7 @@ padding: 10px;
   z-index: 1000;
   position: fixed;
   width: 100%;
-  background-color:coral;
+  background-color:#f7f7f7;
 }
 /*#topbar:hover {*/
 /*  background: black;*/
@@ -751,7 +751,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Nav Meu Styling */
 .nav-menu a {
-  padding: 10px;
+  padding: 8px;
   text-decoration: none;
   display: inline-block;
   color: #fff;
