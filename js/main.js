@@ -27,12 +27,12 @@ jQuery(document).ready(function($) {
   new WOW().init();
 
   // Initiate superfish on nav menu
-  $('.nav-menu').superfish({
+  /*$('.nav-menu').superfish({
     animation: {
       opacity: 'show'
     },
     speed: 400
-  });
+  }); */
 
   // Mobile Navigation
   if ($('#nav-menu-container').length) {
@@ -89,9 +89,9 @@ jQuery(document).ready(function($) {
           }
         }
 
-        $('html, body').animate({
+        /*$('html, body').animate({
           scrollTop: target.offset().top - top_space
-        }, 1500, 'easeInOutExpo');
+        }, 1500, 'easeInOutExpo'); */
 
         if ($(this).parents('.nav-menu').length) {
           $('.nav-menu .menu-active').removeClass('menu-active');
