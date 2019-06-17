@@ -57,10 +57,10 @@ $(".2").click(function(){
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#242424', endColorstr='#080808', GradientType=1 );">
     <div class="clearfix"><center>
       <div class="contact-info d-inline-block">
-        <i class="fa fa-envelope-o"></i> <a href="info@primemedspa.com" class="text-white"><b>info@primemedspa.com</b></a>
-        <i class="fa fa-phone"></i><b class="text-white">+1-918 710 5060</b>
+        <i class="fa fa-envelope-o"></i> <a href="info@primemedspa.com" ><b>info@primemedspa.com</b></a>
+        <i class="fa fa-phone"></i><b class="text-white">918.392.4552</b>
         </div>
-        <div class="social-links d-inline-block">
+        <div class="social-links d-inline-block contact-info">
        <a href="https://www.facebook.com/primemedspa/" class="facebook"><i class="fa fa-facebook"></i></a>
       </div>
   </center>
@@ -141,7 +141,7 @@ background: linear-gradient(to right, rgba(247,131,193,1) 0%, rgba(156,3,85,1) 1
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f783c1', endColorstr='#9c0355', GradientType=1 ); border-radius: 42px 42px 42px 42px;
 -moz-border-radius: 42px 42px 42px 42px;
 -webkit-border-radius: 42px 42px 42px 42px;
-border: 0px solid #000000;" id="req">REQUEST AN APPOINTMENT</a>
+border: 0px solid #000000;" id="req">918.710.2060</a>
 </div><br>
 </div>
 </div>
@@ -462,7 +462,7 @@ border: 0px solid #000000;" id="req">REQUEST AN APPOINTMENT</a>
       <br>
       <br>
      <h4 style="font-weight: 700; color: brown">7307 S Yale Ave Tulsa, OK 74136</h4>
-     <b>Phone: +1-918 710 5060</b><br>
+     <b>Phone: 918.392.4552</b><br>
       <b>Fax: +1-918 392 4555</b><br>
       <b>info@primemedspa.com</b><br>
 </div>
@@ -474,7 +474,7 @@ border: 0px solid #000000;" id="req">REQUEST AN APPOINTMENT</a>
 <h3>
 <span class="fl-heading-text"><strong>Contact</strong></span>
 </h3>
-Phone : +1-918 710 5060<br>
+Phone : 918.392.4552<br>
 Fax : +1-918 392 4555<br>
 Email :info@primemedspa.com<br>
 Address : 7307 S Yale Ave Tulsa, OK 74136<br>
