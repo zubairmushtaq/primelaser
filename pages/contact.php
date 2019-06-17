@@ -111,7 +111,7 @@ box-shadow: 0px 3px 7px 0px rgba(0,0,0,0.63);">
             </ul>
           </li>
           <li><a href="blog.html">Blog</a></li>
-                    <li><a href="pages/contact.html">Contact Us</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
