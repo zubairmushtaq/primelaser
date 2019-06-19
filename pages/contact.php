@@ -57,11 +57,11 @@ $(".2").click(function(){
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#242424', endColorstr='#080808', GradientType=1 );">
     <div class="clearfix"><center>
       <div class="contact-info d-inline-block">
-        <i class="fa fa-envelope-o"></i> <a href="info@primemedspa.com" ><b>info@primemedspa.com</b></a>
+        <i class="fa fa-phone"></i> <a href="info@primemedspa.com" ><b>info@primemedspa.com</b></a>
         <i class="fa fa-phone"></i><b class="text-white">918.392.4552</b>
         </div>
         <div class="social-links d-inline-block contact-info">
-       <a href="https://www.facebook.com/primemedspa/" class="facebook"><i class="fa fa-facebook"></i></a>
+       <a href="https://www.facebook.com/primemedspa/"><i class="fab fa-facebook"></i></a>
       </div>
   </center>
     </div>
@@ -111,7 +111,7 @@ box-shadow: 0px 3px 7px 0px rgba(0,0,0,0.63);">
             </ul>
           </li>
           <li><a href="blog.html">Blog</a></li>
-                    <li><a href="contact.html">Contact Us</a></li>
+                    <!-- <li><a href="contact.html">Contact Us</a></li> -->
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
